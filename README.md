@@ -1,10 +1,10 @@
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=arian81&show_icons=true&count_private=true&title_color=fed7aa&bg_color=592406&text_color=fff&icon_color=fed7aa"
+  srcset="https://github-readme-stats.vercel.app/api?username=arian81&show_icons=true&count_private=true&theme=transparent&title_color=fed7aa&text_color=fff&icon_color=fed7aa"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=arian81&show_icons=true&count_private=true&title_color=592406&bg_color=fed7aa&text_color=000&icon_color=592406"
+  srcset="https://github-readme-stats.vercel.app/api?username=arian81&show_icons=true&count_private=true&title_color=592406&theme=transparent&text_color=000&icon_color=592406&bg_color=fed7aa"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=arian81&show_icons=true" />
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
